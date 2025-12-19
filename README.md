@@ -44,3 +44,4 @@ Developed by: RegisterNumber:
 <img width="1919" height="318" alt="Screenshot 2025-12-19 201829" src="https://github.com/user-attachments/assets/8db62ae0-992f-4bdf-b0f4-643cc7bafff9" />
 
 **RESULTS**
+Thus the SISO Shift Register using verilog and validating their functionality using their functional tables is implemented and verified.
